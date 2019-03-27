@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">Asynctask</string>
+    <string-array name="links">
+        <item>https://upload.wikimedia.org/wikipedia/commons/8/87/TVE_La1_-_Logo_2008.png</item>
+        <item>http://vignette4.wikia.nocookie.net/logopedia/images/4/47/Tve_2.png/revision/latest?cb=20140918184607</item>
+        <item>https://png.pngtree.com/element_pic/17/07/30/ed417a3d8d618af5faa1627d54d1c1a4.jpg</item>
+        <item>https://png.pngtree.com/element_pic/17/09/12/335f1301a98d6e011d917b9513a65f1d.jpg</item>
+        <item>https://icon2.kisspng.com/20171220/foe/number-5-png-5a3a874a3c5546.9216970515137851622471.jpg</item>
+    </string-array>
+
 </resources>
